@@ -1,0 +1,144 @@
+@charset "UTF-8";
+
+.upper-bar {
+
+    display: block;
+    padding: 0%;
+    margin-top: 0%;
+    width: 100%;
+    background-color: white;
+    opacity: 0.65;
+
+}
+
+.logo {
+
+    border: 0px;
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    width: 40%;
+    background-size: cover;
+
+}
+
+h1.subtitulo {
+
+    margin-top: 16%;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(236, 236, 236);
+    font-size: 30px;
+
+}
+
+.logo-bar {
+
+    width: 100%;
+    height: 60%;
+    background-color: rgba(0, 67, 201, 0.5);
+    background-size: cover;
+
+}
+
+.about-bar {
+
+    padding: 2%;
+    margin: 0%;
+    width: 100%;
+    height: 60%;
+    background-color: rgba(71, 138, 224, 0.5);
+    background-size: cover;
+
+}
+
+.services-bar {
+
+    padding: 2%;
+    margin: 0%;
+    width: 100%;
+    height: 60%;
+    background-color: rgba(95, 151, 224, 0.5);
+    background-size: cover;
+
+}
+
+.equipe-bar {
+
+    padding: 2%;
+    margin: 0%;
+    width: 100%;
+    height: 60%;
+    background-color: rgba(148, 192, 250, 0.5);
+    background-size: cover;
+
+}
+
+.bar-in {
+
+    margin: 0%;
+    width: 95%;
+    padding: 0%;
+    background-color: rgba(255, 255, 255, 0.9);
+    background-size: cover;
+    border-radius: 5px;
+
+
+}
+
+p.section-header {
+
+    margin: 0%;
+    padding: 1%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(46, 43, 43);
+    font-size: 40px;
+
+}
+
+p.section-text {
+
+    margin: 0%;
+    padding: 2%;
+    width: 95%;
+    text-align: justify;
+    font-family: 'Playfair Display', serif;
+    color: rgb(46, 43, 43);
+    font-size: 20px;
+
+}
+
+.social-medias {
+
+    position: relative;
+    z-index: 1;
+    opacity: 1;
+
+}
+
+table.upper-table {
+
+    position: absolute;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+table.upper-table td, table.upper-table th {
+
+    position: relative;
+    padding-top: 1%;
+
+}
+
+td.logos-td {
+
+    padding-left: 15%;
+    vertical-align: middle;
+    text-align: left;
+    height: 100%;
+
+}
