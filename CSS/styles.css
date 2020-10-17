@@ -258,31 +258,9 @@ p.center {
 
 }
 
-#headingFour.card-header {
+p.center-mail {
 
-    padding: 0%;
-
-}
-
-.fillForm {
-
+    text-align: center !important;
     font-size: 60%;
-
-}
-
-.contact {
-
-    padding: 0%;
-    margin: 0%;
-    border: 0px;
-
-}
-
-.form-contact {
-
-    padding-left: 5% !important;
-    padding-right: 5% !important;
-    margin-left: 10% !important;
-    margin-right: 10% !important;
 
 }
