@@ -24,7 +24,6 @@
 
 h1.subtitulo {
 
-    margin-top: 16%;
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
     color: rgb(236, 236, 236);
@@ -32,10 +31,22 @@ h1.subtitulo {
 
 }
 
+.col-md-12 {
+
+    margin-top: 10px;
+
+}
+
+.nopadding {
+
+    padding: 0 !important;
+    margin: 0 !important;
+
+ }
+
 .logo-bar {
 
     width: 100%;
-    height: 60%;
     background-color: rgba(0, 67, 201, 0.5);
     background-size: cover;
 
@@ -136,9 +147,75 @@ table.upper-table td, table.upper-table th {
 
 td.logos-td {
 
-    padding-left: 15%;
+    padding-left: 10%;
     vertical-align: middle;
     text-align: left;
     height: 100%;
+
+}
+
+.card, .cardheader {
+
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    margin-bottom: 20px;
+
+}
+
+.card {
+
+    box-shadow: 0 2px 25px 0 rgba(110, 130, 208, .18);
+}
+
+.btn-link {
+
+    width: 100%;
+    height: 60px;
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-size: 80% !important;
+    text-align: left;
+    text-decoration: none;
+
+}
+
+.card-body {
+
+    background: white;
+    width: 100%;
+
+}
+
+.card.collapsed {
+
+    width: 100%;
+
+}
+
+.btn-link::after {
+
+    content: '\2212';
+    width: 35px;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+    right: 15px;
+    top: 11px;
+    position: absolute;
+
+}
+
+.btn-link.collapsed::after {
+
+    content: '\002B';
+
+}
+
+
+.accordion {
+
+    padding: 2% !important;
 
 }

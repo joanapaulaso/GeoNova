@@ -4,8 +4,9 @@
 	img.logo {
 
 		position: absolute;
-		top: 25%;
-		left: 15%;
+		width: 50% !important;
+		top: 5%;
+		left: 10%;
 
 	}
 
@@ -13,12 +14,27 @@
 
 		position: absolute;
 		width: 40%;
+		margin-top: 15%;
+		margin-left: 0%;
 
 		}
 
 	.upper-bar {
 
 		height: 15%;
+
+	}
+
+	h1.subtitulo {
+
+		margin-top: 15%;
+
+	}
+
+	.logo-bar {
+
+		position: relative;
+		height: 35%;
 
 	}
 	
@@ -30,7 +46,7 @@
 	img.logo {
 
 		position: absolute;
-		top: 25%;
+		top: 9%;
 		left: 15%;
 
 	}
@@ -47,6 +63,18 @@
 		height: 15%;
 	
 	}
+
+	h1.subtitulo {
+
+		margin-top: 25%;
+
+	}
+
+	.logo-bar {
+
+		height: 35%;
+
+	}
 	
 }
 	
@@ -56,7 +84,7 @@
 	img.logo {
 
 		position: absolute;
-		top: 25%;
+		top: 15%;
 		left: 15%;
 
 	}
@@ -73,6 +101,18 @@
 		height: 20%;
 	
 	}	
+
+	h1.subtitulo {
+
+		margin-top: 25%;
+
+	}
+
+	.logo-bar {
+
+		height: 50%;
+
+	}
 
 }
 	
@@ -100,6 +140,18 @@
 	
 	}	
 
+	h1.subtitulo {
+
+		margin-top: 25%;
+
+	}
+
+	.logo-bar {
+
+		height: 60%;
+
+	}
+
 }
 
 @media screen and (min-width: 1025px) and (max-width: 2000px) {
@@ -107,7 +159,7 @@
 	img.logo {
 
 		position: absolute;
-		top: 25%;
+		top: 15%;
 		left: 15%;
 
 		}
@@ -124,6 +176,18 @@
 		height: 15%;
 	
 	}	
+
+	h1.subtitulo {
+
+		margin-top: 25%;
+
+	}
+
+	.logo-bar {
+
+		height: 60%;
+
+	}
 
 }
 
@@ -150,5 +214,17 @@
 		height: 15%;
 	
 	}	
+
+	h1.subtitulo {
+
+		margin-top: 16%;
+
+	}
+
+	.logo-bar {
+
+		height: 80%;
+
+	}
 
 }
