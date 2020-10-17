@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.preloadedImages {
+
+    display: inline;
+    background-image: url(../IMG/g1.jpg);
+    background-image: url(../IMG/g2.jpg);
+    background-image: url(../IMG/g3.jpg);
+    background-image: url(../IMG/g4.jpg);
+    background-image: url(../IMG/g5.jpg);
+
+}

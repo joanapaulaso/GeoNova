@@ -1,0 +1,154 @@
+/* Medium devices (smartphones) */
+@media only screen and (max-width: 600px) {
+
+	img.logo {
+
+		position: absolute;
+		top: 25%;
+		left: 15%;
+
+	}
+
+	img.logos {
+
+		position: absolute;
+		width: 40%;
+
+		}
+
+	.upper-bar {
+
+		height: 15%;
+
+	}
+	
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+	img.logo {
+
+		position: absolute;
+		top: 25%;
+		left: 15%;
+
+	}
+
+	img.logos {
+
+		position: absolute;
+		width: 30%;
+
+		}
+
+	.upper-bar {
+
+		height: 15%;
+	
+	}
+	
+}
+	
+/* Large devices (laptops/desktops, 992px and up) */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	img.logo {
+
+		position: absolute;
+		top: 25%;
+		left: 15%;
+
+	}
+
+	img.logos {
+
+		position: absolute;
+		width: 25%;
+
+		}
+
+	.upper-bar {
+
+		height: 20%;
+	
+	}	
+
+}
+	
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+
+	img.logo {
+
+		position: absolute;
+		top: 20%;
+		left: 15%;
+		
+	}
+
+	img.logos {
+
+		position: absolute;
+		width: 30%;
+
+		}
+
+	.upper-bar {
+
+		height: 15%;
+	
+	}	
+
+}
+
+@media screen and (min-width: 1025px) and (max-width: 2000px) {
+    
+	img.logo {
+
+		position: absolute;
+		top: 25%;
+		left: 15%;
+
+		}
+
+	img.logos {
+
+		position: absolute;
+		width: 15%;
+
+		}
+
+	.upper-bar {
+
+		height: 15%;
+	
+	}	
+
+}
+
+/* Extra large devices (large laptops and desktops, 1025px and up) */
+@media screen and (min-width: 2001px) and (max-width: 3000px) {
+    
+	img.logo {
+
+		position: absolute;
+		top: 25%;
+		left: 15%;
+
+		}
+
+	img.logos {
+
+		position: absolute;
+		width: 15%;
+
+		}
+
+	.upper-bar {
+
+		height: 15%;
+	
+	}	
+
+}
