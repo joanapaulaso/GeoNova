@@ -218,3 +218,42 @@ td.logos-td {
 
 }
 
+img.thumb {
+
+    border-radius: 50%;
+    width: 25%;
+
+}
+
+img.thumb-wapp {
+
+    width: 10%;
+
+}
+
+.column-contact {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+h3.contact-title {
+
+    font-size: 100%;
+    text-align: center !important;
+    margin-top: 5%;
+
+}
+
+p.contact-email {
+
+    font-size: 70%;
+
+}
+
+p.center {
+
+    text-align: center !important;
+
+}
