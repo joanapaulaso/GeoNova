@@ -212,6 +212,18 @@ td.logos-td {
 
 }
 
+.services-title {
+
+    font-size: 100%;
+
+}
+
+.serv-list {
+
+    font-size: 80%;
+
+}
+
 .col-services-text {
 
     margin: 10%;
@@ -227,7 +239,7 @@ img.thumb {
 
 img.thumb-wapp {
 
-    width: 10%;
+    width: 7%;
 
 }
 
@@ -242,13 +254,7 @@ h3.contact-title {
 
     font-size: 100%;
     text-align: center !important;
-    margin-top: 5%;
-
-}
-
-p.contact-email {
-
-    font-size: 70%;
+    margin-top: 3%;
 
 }
 
@@ -261,6 +267,6 @@ p.center {
 p.center-mail {
 
     text-align: center !important;
-    font-size: 60%;
+    font-size: 70%;
 
 }
