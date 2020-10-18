@@ -169,6 +169,19 @@ td.logos-td {
     box-shadow: 0 2px 25px 0 rgba(110, 130, 208, .18);
 }
 
+.box-bg {
+
+    background-color: rgb(200, 229, 255, 0.5) !important;
+    box-shadow: 10px 10px 18px 0px rgba(176,176,176,1);
+    border-radius: 5%;
+
+}
+
+p.who-text {
+
+    text-indent: 10%;
+}
+
 .btn-link {
 
     color: rgb(0, 0, 0) !important;
@@ -206,7 +219,7 @@ td.logos-td {
     height: auto;
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
     flex-flow: wrap;
     padding: 0;
 
@@ -221,6 +234,7 @@ td.logos-td {
 .serv-list {
 
     font-size: 80%;
+    padding-inline-start: 10% !important;
 
 }
 
@@ -245,8 +259,10 @@ img.thumb-wapp {
 
 .column-contact {
 
-    width: 100%;
     text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
 
 }
 
@@ -255,6 +271,9 @@ h3.contact-title {
     font-size: 100%;
     text-align: center !important;
     margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
 
 }
 
@@ -264,11 +283,27 @@ p.center {
 
 }
 
+p.contact-subtitle {
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 150%;
+    font-weight: bold;
+
+}
+
 p.center-mail {
 
     text-align: center !important;
-    font-size: 150%;
-    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 170%;
+    font-weight: bolder;
     margin-bottom: 2%;
+
+}
+
+.col-contact {
+
+    margin: 0% !important;
+    padding: 0% !important;
 
 }
