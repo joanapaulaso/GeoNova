@@ -267,6 +267,8 @@ p.center {
 p.center-mail {
 
     text-align: center !important;
-    font-size: 70%;
+    font-size: 150%;
+    font-weight: bold;
+    margin-bottom: 2%;
 
 }
