@@ -1,0 +1,309 @@
+@charset "UTF-8";
+
+.upper-bar {
+
+    display: block;
+    padding: 0%;
+    margin-top: 0%;
+    width: 100%;
+    background-color: white;
+    opacity: 0.65;
+
+}
+
+.logo {
+
+    border: 0px;
+    display: block;
+    margin-left: 15%;
+    margin-right: auto;
+    width: 40%;
+    background-size: cover;
+
+}
+
+h1.subtitulo {
+
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(236, 236, 236);
+    font-size: 30px;
+
+}
+
+.col-md-12 {
+
+    margin-top: 10px;
+
+}
+
+.nopadding {
+
+    padding: 0 !important;
+    margin: 0 !important;
+
+ }
+
+.logo-bar {
+
+    width: 100%;
+    background-color: rgba(0, 67, 201, 0.5);
+    background-size: cover;
+
+}
+
+.about-bar {
+
+    padding: 2%;
+    margin: 0%;
+    width: 100%;
+    height: 60%;
+    background-color: rgba(71, 138, 224, 0.5);
+    background-size: cover;
+
+}
+
+.services-bar {
+
+    padding: 2%;
+    margin: 0%;
+    width: 100%;
+    height: 60%;
+    background-color: rgba(95, 151, 224, 0.5);
+    background-size: cover;
+
+}
+
+.equipe-bar {
+
+    padding: 2%;
+    margin: 0%;
+    width: 100%;
+    height: 60%;
+    background-color: rgba(148, 192, 250, 0.5);
+    background-size: cover;
+
+}
+
+.bar-in {
+
+    margin: 0%;
+    width: 95%;
+    padding: 0%;
+    background-color: rgba(255, 255, 255, 0.9);
+    background-size: cover;
+    border-radius: 5px;
+
+
+}
+
+p.section-header {
+
+    margin: 0%;
+    padding: 1%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(46, 43, 43);
+    font-size: 40px;
+
+}
+
+p.section-text {
+
+    margin: 0%;
+    padding: 2%;
+    width: 95%;
+    text-align: justify;
+    font-family: 'Playfair Display', serif;
+    color: rgb(46, 43, 43);
+    font-size: 20px;
+
+}
+
+.social-medias {
+
+    position: relative;
+    z-index: 1;
+    opacity: 1;
+
+}
+
+table.upper-table {
+
+    position: absolute;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+table.upper-table td, table.upper-table th {
+
+    position: relative;
+    padding-top: 1%;
+
+}
+
+td.logos-td {
+
+    padding-left: 10%;
+    vertical-align: middle;
+    text-align: left;
+    height: 100%;
+
+}
+
+.card, .card-header {
+
+    border: none !important;
+    padding: 0;
+    margin-bottom: 20px;
+    background-color: white !important;
+    border-bottom: none !important;
+
+}
+
+.card {
+
+    box-shadow: 0 2px 25px 0 rgba(110, 130, 208, .18);
+}
+
+.box-bg {
+
+    background-color: rgb(200, 229, 255, 0.5) !important;
+    box-shadow: 10px 10px 18px 0px rgba(176,176,176,1);
+    border-radius: 5%;
+
+}
+
+p.who-text {
+
+    text-indent: 10%;
+}
+
+.btn-link {
+
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+    font-family: 'Open Sans Condensed', sans-serif !important;
+
+}
+
+.card-body {
+
+    background: white;
+    width: 100%;
+    text-align: justify !important;
+    padding-left: 7% !important;
+    padding-right: 10% !important;
+    padding-top: 2% !important;
+    padding-bottom: 5% !important;
+
+}
+
+.accordion {
+
+    background-color: white;
+
+}
+
+.btn:not(:disabled):not(.disabled) {
+
+    cursor: default !important;
+
+}
+
+.container {
+
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow: wrap;
+    padding: 0;
+
+}
+
+.services-title {
+
+    font-size: 100%;
+
+}
+
+.serv-list {
+
+    font-size: 80%;
+    padding-inline-start: 10% !important;
+
+}
+
+.col-services-text {
+
+    margin: 10%;
+
+}
+
+img.thumb {
+
+    border-radius: 50%;
+    width: 25%;
+
+}
+
+img.thumb-wapp {
+
+    width: 7%;
+
+}
+
+.column-contact {
+
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
+
+}
+
+h3.contact-title {
+
+    font-size: 100%;
+    text-align: center !important;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
+
+}
+
+p.center {
+
+    text-align: center !important;
+
+}
+
+p.contact-subtitle {
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 150%;
+    font-weight: bold;
+
+}
+
+p.center-mail {
+
+    text-align: center !important;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 170%;
+    font-weight: bolder;
+    margin-bottom: 2%;
+
+}
+
+.col-contact {
+
+    margin: 0% !important;
+    padding: 0% !important;
+
+}
