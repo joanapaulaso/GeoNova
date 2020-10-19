@@ -168,6 +168,15 @@ td.logos-td {
 
     background-color: rgba(219, 238, 255, 0.5) !important;
     box-shadow: 10px 10px 18px 0px rgba(176,176,176,1);
+    width: 70% !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: center;
 
 }
 
@@ -253,10 +262,9 @@ img.thumb-wapp {
 
 .column-contact {
 
-    text-align: center;
-    margin-left: 2%;
-    margin-right: 2%;
-    width: 100%;
+    justify-items: center;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -264,7 +272,8 @@ h3.contact-title {
 
     font-size: 100%;
     text-align: center !important;
-    margin-top: 3%;
+    margin-top: 4%;
+    margin-bottom: 4%;
     margin-left: 2%;
     margin-right: 2%;
     width: 100%;
@@ -280,8 +289,9 @@ p.center {
 p.contact-subtitle {
 
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 150%;
+    font-size: 130%;
     font-weight: bold;
+    text-align: center;
 
 }
 

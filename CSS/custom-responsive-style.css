@@ -25,15 +25,6 @@
 
 	}
 
-	h1.subtitulo {
-
-		margin-top: 30%;
-		font-size: 200% !important;
-		padding-left: 10%;
-		padding-right: 10%;
-
-	}
-
 	.logo-bar {
 
 		height: 15%;
@@ -42,7 +33,7 @@
 
 	.card-body {
 
-		font-size: 110% !important;
+		font-size: 100% !important;
 		padding: 0% !important;
 
 	}
@@ -93,6 +84,12 @@
 		padding-right: 0 !important;
 
 	}
+
+	p.contact-subtitle {
+
+		font-size: 70% !important;
+
+	}
 	
 }
 
@@ -130,7 +127,7 @@
 
 	.card-body {
 
-		font-size: 120% !important;
+		font-size: 110% !important;
 
 	}
 
@@ -153,6 +150,12 @@
 		flex-flow: wrap !important;
 		padding-left: 0 !important;
 		padding-right: 0 !important;
+
+	}
+
+	p.contact-subtitle {
+
+		font-size: 80% !important;
 
 	}
 	
@@ -192,7 +195,7 @@
 
 	.card-body {
 
-		font-size: 140% !important;
+		font-size: 120% !important;
 
 	}
 
@@ -215,6 +218,12 @@
 		flex-flow: inherit !important;
 		padding-left: 0 !important;
 		padding-right: 0 !important;
+
+	}
+
+	p.contact-subtitle {
+
+		font-size: 80% !important;
 
 	}
 
@@ -260,7 +269,7 @@
 
 	.card-body {
 
-		font-size: 150% !important;
+		font-size: 130% !important;
 		padding: 5%;
 
 	}
@@ -293,6 +302,12 @@
 
 	}
 
+	p.contact-subtitle {
+
+		font-size: 80% !important;
+
+	}
+
 }
 
 @media screen and (min-width: 1025px) and (max-width: 2000px) {
@@ -317,13 +332,6 @@
 	
 	}	
 
-	h1.subtitulo {
-
-		margin-top: 20%;
-		font-size: 400% !important;
-
-	}
-
 	.logo-bar {
 
 		height: 25%;
@@ -332,7 +340,7 @@
 
 	.card-body {
 
-		font-size: 150% !important;
+		font-size: 130% !important;
 
 	}
 
@@ -354,6 +362,12 @@
 		flex-flow: inherit !important;
 		padding-left: 0 !important;
 		padding-right: 0 !important;
+
+	}
+
+	p.contact-subtitle {
+
+		font-size: 90% !important;
 
 	}
 
@@ -436,9 +450,9 @@
 
 	}
 
-	.contact-title {
+	h3.contact-title {
 
-		font-size: 200% !important;
+		font-size: 170% !important;
 
 	}
 
