@@ -238,6 +238,7 @@ p.who-text {
 
     font-size: 80%;
     padding-inline-start: 10% !important;
+    list-style-image: url("../IMG/arrow.png");
 
 }
 
