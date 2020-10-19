@@ -33,8 +33,8 @@
 
 	.card-body {
 
-		font-size: 100% !important;
 		padding: 0% !important;
+		font-size: 100% !important;
 
 	}
 
@@ -46,8 +46,11 @@
 
 	.col-services-text {
 
-		width: 90% !important;
+		width: 100% !important;
 		padding: 0% !important;
+		margin-top: 2% !important;
+		margin-bottom: 2% !important;
+		font-size: 110% !important;
 
 	}
 
@@ -61,14 +64,6 @@
 
 		text-align: center !important;
 	
-	}
-
-	.col-services-text {
-
-		width: 90% !important;
-		margin-top: 2% !important;
-		margin-bottom: 2% !important;
-
 	}
 
 	p.center-mail {
@@ -207,15 +202,22 @@
 
 	.btn-link {
 
-		font-size: 40px !important;
+		font-size: 35px !important;
 
 	}
 
 	.col-services-text {
 
-		width: 90% !important;
 		margin-top: 2% !important;
 		margin-bottom: 2% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+
+	}
+
+	.services-title {
+
+		width: 300px !important;
 
 	}
 
@@ -275,14 +277,14 @@
 
 	.card-body {
 
-		font-size: 130% !important;
+		font-size: 120% !important;
 		padding: 5%;
 
 	}
 
 	.btn-link {
 
-		font-size: 50px !important;
+		font-size: 40px !important;
 
 	}
 
@@ -346,13 +348,13 @@
 
 	.card-body {
 
-		font-size: 130% !important;
+		font-size: 120% !important;
 
 	}
 
 	.btn-link {
 
-		font-size: 50px !important;
+		font-size: 40px !important;
 
 	}
 
@@ -437,7 +439,7 @@
 
 		margin: 0% !important;
 		width: 60% !important;
-		font-size: 120%;
+		font-size: 100%;
 
 	}
 
